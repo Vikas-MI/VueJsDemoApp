@@ -1,0 +1,197 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "user": [
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "akash",
+      "email": "akash@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "email": "vikas.katariya@mindinventory.com",
+      "password": "zxc",
+      "name": "Test Project MI",
+      "id": 3
+    },
+    {
+      "email": "bhavesh@mi.com",
+      "password": "Mind@123",
+      "name": "Bhavesh",
+      "id": 4
+    },
+    {
+      "email": "vikas123@gmail.com",
+      "password": "12345678",
+      "name": "vikas",
+      "id": 5
+    },
+    {
+      "email": "g54gdrfe5dfgf@mailinator.com",
+      "password": "12345678",
+      "name": "saxdsd",
+      "id": 6
+    },
+    {
+      "email": "tufel@gmail.com",
+      "password": "12345678",
+      "name": "Test Project MI",
+      "id": 7
+    },
+    {
+      "email": "virat@mailinator.com",
+      "password": "123456",
+      "name": "test-1",
+      "id": 8
+    },
+    {
+      "email": "vijay.sadhu@intelius.ai",
+      "password": "Pasword@123",
+      "name": "Vijay",
+      "id": 9
+    },
+    {
+      "email": "jeravala@gmail.com",
+      "password": "12345678",
+      "name": "jeravala",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "restaurant": [
+    {
+      "name": "Veta Phaidros",
+      "contact": "02224710409",
+      "address": "2363 Fairview St",
+      "id": 3
+    },
+    {
+      "name": "Julia Talat",
+      "contact": "02228065686",
+      "address": "1947 James St",
+      "id": 6
+    },
+    {
+      "name": "Wasylyna Genādijs",
+      "contact": "02227651672",
+      "address": "6743 Mockingbird Hill",
+      "id": 10
+    },
+    {
+      "name": "Ernst Raza",
+      "contact": "02223427785",
+      "address": "6688 Pecan Acres Ln",
+      "id": 11
+    },
+    {
+      "name": "Carmina Ghaliya",
+      "contact": "02226116253",
+      "address": "1845 Timber Wolf Trail",
+      "id": 12
+    },
+    {
+      "name": "Dora Rosy",
+      "contact": "02227666658",
+      "address": "9023 James St",
+      "id": 13
+    },
+    {
+      "name": "Harsha Toshiaki",
+      "contact": "01125786726",
+      "address": "3836 Rolling Green Rd",
+      "id": 14
+    },
+    {
+      "name": "Haldor Brando",
+      "contact": "02228787598",
+      "address": "1903 Lone Wolf Trail",
+      "id": 15
+    },
+    {
+      "name": "Chikondi Kay",
+      "contact": "02226606651",
+      "address": "5162 Smokey Ln",
+      "id": 16
+    },
+    {
+      "name": "Balakrishna Chiumbo",
+      "contact": "02225785279",
+      "address": "2704 Oak Lawn Ave",
+      "id": 17
+    },
+    {
+      "name": "Neferkare Óðinn",
+      "contact": "02222870643",
+      "address": "3376 Mcclellan Rd",
+      "id": 18
+    },
+    {
+      "name": "Yakup Jonatan",
+      "contact": "02225062949",
+      "address": "2946 Paddock Way",
+      "id": 19
+    },
+    {
+      "name": "Rhetta Shena",
+      "contact": "01127053544",
+      "address": "1287 Cherry St",
+      "id": 20
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 21
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 22
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 23
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 24
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 25
+    },
+    {
+      "name": "jerawala",
+      "contact": "7878787878",
+      "address": "801, City Centre 2, Science City Rd, Sola, Ahmedabad, Gujarat 380060",
+      "id": 26
+    }
+  ]
+}
