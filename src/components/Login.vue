@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="mb-3 row justify-content-center">
-                <div class="col-md-3">
+                <div class="col-md-3 vikas">
                 <button class="btn btn-primary form-control">Submit</button>
                 </div>
             </div>
