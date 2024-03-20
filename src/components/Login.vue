@@ -76,7 +76,7 @@ export default {
     methods:{
         async Login(submitEvent){
             let result = await axios.get(
-                `https://vuedemovikaskatariya.netlify.app/user?email=${submitEvent.email}&password=${submitEvent.password}`
+                `https://vuedemovikaskatariya.netlify.app/login?email=${submitEvent.email}&password=${submitEvent.password}`
             )
             if(result.status === 200 && result.data.length > 0){
                 toast.success('Login successfully.');
