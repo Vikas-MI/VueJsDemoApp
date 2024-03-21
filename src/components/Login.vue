@@ -5,7 +5,7 @@
         <div class="container">
             <div class="mb-3 row justify-content-center">
                 <div class="col-md-3">
-                    <label for="formGroupExampleInput2" class="form-label">Email</label>
+                    <label for="formGroupExampleInput2" class="form-label">Email ID</label>
                     <Field type="text"  v-model="email" class="form-control" id="formGroupExampleInput2" placeholder="Enter email" name="email" rules="required|email"  />
                     <ErrorMessage class="danger" name="email" />
                     <br />
